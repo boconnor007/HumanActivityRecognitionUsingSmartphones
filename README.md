@@ -1,5 +1,5 @@
 #This is study of the activity from accelerometers collected using Samsung Galaxy S Smartphones
-## This is an excercise in clearning and combining datasets into a researchable dataset
+This is an excercise in cleaning and combining datasets into a researchable dataset
 
 ## Wearable computing article
 http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
