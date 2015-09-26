@@ -1,5 +1,5 @@
 #CodeBook.md
-## Describes the variables, the data, and any transformations
+Describes the variables, the data, and any transformations
 
 
 ## Transformations that occur in run_analysis.R

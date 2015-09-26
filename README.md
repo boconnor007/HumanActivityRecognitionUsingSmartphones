@@ -11,6 +11,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Instructions
-1) Download data from link above
-2) Run run_analysis.R script
-3) tidy_dataset.txt will be created and can be used for research
+1. Download data from link above
+2. Run run_analysis.R script
+3. tidy_dataset.txt will be created and can be used for research
